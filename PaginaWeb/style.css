@@ -98,6 +98,10 @@ header p {
 }
 
 /* Footer */
+footer a:hover {
+  color: #5792e0;
+}
+
 footer {
   text-align: center;
   font-size: 0.9rem;
